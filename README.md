@@ -83,24 +83,20 @@
 git clone https://github.com/ahmed-gaiter303/ai-task-manager.git
 cd ai-task-manager
 
-text
 
 ### Install Dependencies
 npm install
 
-text
 
 ### Start Development Server
 npm start
 
-text
 
 The app will open at `http://localhost:3000`
 
 ### Build for Production
 npm run build
 
-text
 
 ---
 
@@ -113,13 +109,10 @@ npm i -g vercel
 Deploy
 vercel
 
-text
-
 ### Deploy on Netlify
 npm run build
 netlify deploy --prod --dir=build
 
-text
 
 ---
 
@@ -139,8 +132,6 @@ ai-task-manager/
 ├── package.json
 ├── tailwind.config.js
 └── README.md
-
-text
 
 ---
 
@@ -184,7 +175,6 @@ secondary: '#7c3aed', // Purple
 }
 }
 
-text
 
 ### Add New Features
 The codebase is modular and easy to extend:
@@ -254,5 +244,3 @@ If you found this project helpful, please:
 ### Made with ❤️ by Ahmed Ekramy
 
 **[⬆ Back to top](#ai-task-manager)**
-
-</div>
